@@ -1,11 +1,10 @@
 .container {
     overflow: hidden;
-    color: #333333;
+    color: #f5b041;
 }
 
 .bar {
     margin-left: 4px;
-    border-radius: 0px 8px 8px 0px;
     height: 36px;
-    background-color: #F5B041;
+    background-color: #f5b041;
 }
